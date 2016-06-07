@@ -24,8 +24,8 @@ body {
 	background-color: #4D605A;
 }
 
-.div-container {
-	background-color: #4D605A; 
+.row-text {
 	padding: 10px;
-	margin-bottom: 10px;
+	background-color: #4D605A;
+	
 }
